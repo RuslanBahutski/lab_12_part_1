@@ -17,4 +17,4 @@ title: About
 1. create page on github
 1. use markdown to create a page
 
-![Troll](http://www.dragoart.com/tuts/8901/1/1/how-to-draw-trollface,-trollface.htm)
+![Troll](http://www.dragoart.com/tuts/pics/8/8901/how-to-draw-trollface,-trollface.jpg)
